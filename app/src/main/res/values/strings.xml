@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MapApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="options">Opções</string>
+    <string name="minha_localiza_o">Minha Localização</string>
+</resources>
